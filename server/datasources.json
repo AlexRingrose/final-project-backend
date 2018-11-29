@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "mongo": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://admin1:admin1@ds051665.mlab.com:51665/finalproject",
+    "database": "finalproject",
+    "password": "admin1",
+    "name": "mongo",
+    "user": "admin1",
+    "connector": "mongodb"
   }
 }
